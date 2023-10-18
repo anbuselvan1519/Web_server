@@ -29,6 +29,7 @@ Testing the webserver
 ![image](https://github.com/anbuselvan1519/Web_server/assets/139841744/4440f242-d9eb-4fb8-81a5-33707e3f0850)
 
 # OUTPUT:
+![image](https://github.com/anbuselvan1519/Web_server/assets/139841744/248aa1b5-86ce-4be1-b62a-12849b543663)
 
 # RESULT:
 
